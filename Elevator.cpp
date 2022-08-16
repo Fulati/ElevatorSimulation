@@ -1,7 +1,3 @@
-// Identification Comments Code Block
-// Programmer: Fulati Aizihaer
-// Programmer's ID: 1716403
-
 #include "Elevator.h"
 #include "Panel.h"
 #include "Building.h"
