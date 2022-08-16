@@ -1,7 +1,3 @@
-// Identification Comments Code Block
-// Programmer: Fulati Aizihaer
-// Programmer's ID: 1716403
-
 #ifndef FLOOR_H
 #define FLOOR_H
 #include <iostream>
