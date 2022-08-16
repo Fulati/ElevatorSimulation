@@ -1,7 +1,3 @@
-// Identification Comments Code Block
-// Programmer: Fulati Aizihaer
-// Programmer's ID: 1716403
-
 #ifndef Rider_h
 #define Rider_h
 
